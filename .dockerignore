@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+output
+RetailBank_SourceData
+RetailBank_SourceData_Day2
+dashboard
