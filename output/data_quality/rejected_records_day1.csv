@@ -1,0 +1,43 @@
+branch_id,branch_name,region,branch_type,manager_name,contact_number,open_date,reject_reason,customer_id,name,gender,email,phone,date_of_birth,kyc_status,address,city,registration_date,account_id,dob_valid,product_id,product_name,category,price,is_active,price_corrected,transaction_id,txn_date,txn_timestamp,amount,currency,payment_method,status,is_refund,txn_datetime,currency_review,date_timestamp_conflict
+B001,Connaught Place,North,Metro,Rakesh Nanda,011-23456789,2015-06-01,exact duplicate row,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+B003,Koramangala,South,Urban,,080-41234567,2017-01-20,exact duplicate row,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,exact duplicate row,C0005,Dhruv Gupta,other,,12345,1992-04-26,verified,"169 Ring Rd, Jaipur",Jaipur,2019-09-15,AC0005,True,,,,,,,,,,,,,,,,,
+,,,,,,,exact duplicate row,C0010,Vihaan Nair,female,vihaan.nair@mail.co,9807076898,1986-10-03,unknown,"289 MG Road, Pune",Pune,2019-08-20,AC0009,True,,,,,,,,,,,,,,,,,
+,,,,,,,exact duplicate row,C0016,Isha Mehta,female,not-an-email,+91-939936146,2001-02-27,pending,"205 Lake View, Kolkata",Kolkata,2021-12-27,AC0016,True,,,,,,,,,,,,,,,,,
+,,,,,,,duplicate product_id,,,,,,,,,,,,,P06,Credit Card (dup),Credit Card,999.0,True,False,,,,,,,,,,,
+B003,,,,,,,exact duplicate row,,,,,,,,,,,AC0045,,P05,,,,,,T0000373,2026-01-22,2026-01-22 22:55:20,27731.02,INR,card,pending,False,2026-01-22 22:55:20,False,False
+B002,,,,,,,exact duplicate row,,,,,,,,,,,AC0014,,P04,,,,,,T0000168,2026-03-22,2026-03-22 14:15:45,2102.21,INR,upi,completed,False,2026-03-22 14:15:45,False,False
+B007,,,,,,,exact duplicate row,,,,,,,,,,,AC0040,,P01,,,,,,T0000677,2026-03-11,2026-03-11 07:59:14,3243.40,INR,upi,reversed,False,2026-03-11 07:59:14,False,False
+B001,,,,,,,exact duplicate row,,,,,,,,,,,AC0007,,P04,,,,,,T0000507,2026-01-13,2026-01-13 09:19:34,"₹11,890.65",INR,card,pending,False,2026-01-13 09:19:34,False,False
+B007,,,,,,,exact duplicate row,,,,,,,,,,,AC0021,,P08,,,,,,T0000546,2026-03-23,2026-03-23 15:06:05,9202.46,INR,card,completed,False,2026-03-23 15:06:05,False,False
+B007,,,,,,,exact duplicate row,,,,,,,,,,,AC0023,,P03,,,,,,T0000754,2026-02-15,2026-02-15 21:41:52,77416.77,INR,netbanking,reversed,False,2026-02-15 21:41:52,False,False
+B006,,,,,,,exact duplicate row,,,,,,,,,,,AC0028,,P02,,,,,,T0000660,2026-03-27,2026-03-27 10:18:02,40425.34,INR,card,completed,False,2026-03-27 10:18:02,False,False
+B006,,,,,,,exact duplicate row,,,,,,,,,,,AC0012,,P01,,,,,,T0000583,2026-01-29,2026-01-29 15:52:48,78867.30,INR,cheque,completed,False,2026-01-29 15:52:48,False,False
+B002,,,,,,,exact duplicate row,,,,,,,,,,,AC0034,,P06,,,,,,T0000144,2026-03-01,2026-03-01 17:18:10,53054.00,INR,netbanking,completed,False,2026-03-01 17:18:10,False,False
+B007,,,,,,,exact duplicate row,,,,,,,,,,,AC0044,,P08,,,,,,T0000620,2026-03-09,2026-03-09 19:11:36,33269.55,INR,card,completed,False,2026-03-09 19:11:36,False,False
+B007,,,,,,,duplicate/conflicting transaction_id,,,,,,,,,,,AC0044,,P07,,,,,,T0000234,2026-03-28,2026-03-28 19:53:51,67677.56,INR,netbanking,reversed,False,2026-03-28 19:53:51,False,False
+B008,,,,,,,duplicate/conflicting transaction_id,,,,,,,,,,,AC0044,,P04,,,,,,T0000089,2026-01-04,2026-01-04 17:17:33,26741.67,INR,netbanking,reversed,False,2026-01-04 17:17:33,False,False
+B004,,,,,,,duplicate/conflicting transaction_id,,,,,,,,,,,AC0034,,P06,,,,,,T0000192,2026-03-23,2026-03-23 21:46:51,16542.19,USD,cash,reversed,False,2026-03-23 21:46:51,True,False
+B004,,,,,,,duplicate/conflicting transaction_id,,,,,,,,,,,AC0046,,P07,,,,,,T0000260,2026-02-13,2026-02-13 17:04:34,11752.10,INR,cheque,completed,True,2026-02-13 17:04:34,False,False
+B008,,,,,,,duplicate/conflicting transaction_id,,,,,,,,,,,AC0029,,P09,,,,,,T0000544,2026-03-04,2026-03-04 08:20:45,86119.37,INR,netbanking,pending,False,2026-03-04 08:20:45,False,False
+B008,,,,,,,duplicate/conflicting transaction_id,,,,,,,,,,,AC0043,,P05,,,,,,T0000612,2026-03-15,2026-03-15 10:12:59,8837.53,INR,upi,pending,False,2026-03-15 10:12:59,False,False
+B003,,,,,,,future-dated beyond processing date,,,,,,,,,,,AC0040,,P02,,,,,,T0000847,2026-04-15,2026-04-15 10:00:00,"₹73,291.15",INR,netbanking,reversed,True,2026-04-15 10:00:00,False,False
+B099,,,,,,,orphan branch_id,,,,,,,,,,,AC0022,,P09,,,,,,T0000840,2026-02-10,2026-02-10 16:27:16,2183.07,INR,netbanking,completed,False,2026-02-10 16:27:16,False,False
+B008,,,,,,,invalid amount (<= 0),,,,,,,,,,,AC0031,,P01,,,,,,T0000831,2026-03-24,2026-03-24 20:27:19,0,USD,cheque,reversed,False,2026-03-24 20:27:19,True,False
+B004,,,,,,,future-dated beyond processing date,,,,,,,,,,,AC0023,,P01,,,,,,T0000848,2026-04-15,2026-04-15 10:00:00,6336.49,INR,cash,pending,False,2026-04-15 10:00:00,False,False
+B004,,,,,,,orphan account_id,,,,,,,,,,,AC9999,,P07,,,,,,T0000836,2026-03-10,2026-03-10 17:44:54,12260.46,INR,netbanking,pending,False,2026-03-10 17:44:54,False,False
+B099,,,,,,,orphan branch_id,,,,,,,,,,,AC0001,,P06,,,,,,T0000842,2026-01-15,2026-01-15 15:57:02,83160.65,INR,netbanking,completed,False,2026-01-15 15:57:02,False,False
+B002,,,,,,,future-dated beyond processing date,,,,,,,,,,,AC0014,,P04,,,,,,T0000846,2026-04-15,2026-04-15 10:00:00,2102.21,INR,upi,completed,False,2026-04-15 10:00:00,False,False
+B099,,,,,,,orphan branch_id,,,,,,,,,,,AC0005,,P05,,,,,,T0000841,2026-01-30,2026-01-30 18:26:58,87333.49,INR,card,pending,False,2026-01-30 18:26:58,False,False
+B008,,,,,,,orphan product_id,,,,,,,,,,,AC0045,,P99,,,,,,T0000844,2026-01-12,2026-01-12 22:34:48,83633.83,INR,card,pending,False,2026-01-12 22:34:48,False,False
+B006,,,,,,,orphan account_id,,,,,,,,,,,AC9999,,P02,,,,,,T0000837,2026-02-11,2026-02-11 06:24:53,46636.85,USD,cheque,pending,False,2026-02-11 06:24:53,True,False
+B005,,,,,,,invalid amount (blank/non-numeric),,,,,,,,,,,AC0012,,P02,,,,,,T0000834,2026-03-17,2026-03-17 08:50:02,abc,INR,card,reversed,False,2026-03-17 08:50:02,False,False
+B008,,,,,,,invalid amount (<= 0),,,,,,,,,,,AC0040,,P06,,,,,,T0000832,2026-02-07,2026-02-07 15:25:53,0.00,INR,cheque,failed,False,2026-02-07 15:25:53,False,False
+B005,,,,,,,future-dated beyond processing date,,,,,,,,,,,AC0008,,P07,,,,,,T0000849,2026-04-15,2026-04-15 10:00:00,"$46,386.88",INR,card,completed,False,2026-04-15 10:00:00,False,False
+B005,,,,,,,orphan account_id,,,,,,,,,,,AC9999,,P09,,,,,,T0000839,2026-03-14,2026-03-14 19:08:00,18470.12,INR,cheque,failed,False,2026-03-14 19:08:00,False,False
+B006,,,,,,,orphan account_id,,,,,,,,,,,AC9999,,P08,,,,,,T0000838,2026-01-23,2026-01-23 17:26:57,2985.67,INR,upi,failed,False,2026-01-23 17:26:57,False,False
+B005,,,,,,,orphan product_id,,,,,,,,,,,AC0029,,P99,,,,,,T0000845,2026-03-26,2026-03-26 11:44:14,1683.96,INR,card,pending,False,2026-03-26 11:44:14,False,False
+B007,,,,,,,invalid amount (<= 0),,,,,,,,,,,AC0015,,P06,,,,,,T0000833,2026-01-20,2026-01-20 20:11:40,-500.00,INR,cash,completed,False,2026-01-20 20:11:40,False,False
+B006,,,,,,,orphan account_id,,,,,,,,,,,AC9999,,P02,,,,,,T0000835,2026-02-03,2026-02-03 21:16:18,56866.70,INR,upi,completed,False,2026-02-03 21:16:18,False,False
+B002,,,,,,,orphan product_id,,,,,,,,,,,AC0027,,P99,,,,,,T0000843,2026-01-31,2026-01-31 18:27:17,70408.16,INR,cheque,reversed,False,2026-01-31 18:27:17,False,False
+B004,,,,,,,invalid amount (blank/non-numeric),,,,,,,,,,,AC0013,,P04,,,,,,T0000830,2026-03-12,2026-03-12 21:34:06,,INR,cheque,reversed,False,2026-03-12 21:34:06,False,False

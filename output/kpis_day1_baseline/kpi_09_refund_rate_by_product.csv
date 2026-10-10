@@ -1,0 +1,10 @@
+product_id,product_name,total_txns,refund_txns,total_value,refund_value,refund_rate_pct
+P06,Credit Card,96,11,5953850.96,574567.61,11.46
+P02,Current Account,99,9,7459081.62,1057658.44,9.09
+P01,Savings Account,80,6,6263808.34,237914.2,7.5
+P05,Home Loan,67,5,3644544.27,324977.65,7.46
+P09,Forex Card,84,6,3519013.67,288282.92,7.14
+P03,Fixed Deposit,97,6,6234822.46,346108.04,6.19
+P07,Gold Credit Card,87,5,5160203.71,328401.6,5.75
+P08,Mutual Fund,79,4,3311609.12,329649.07,5.06
+P04,Personal Loan,98,2,5966717.78,99045.77,2.04

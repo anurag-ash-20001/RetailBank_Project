@@ -1,0 +1,57 @@
+customer_sk,customer_id,name,gender,email,email_valid,phone,phone_valid,date_of_birth,dob_valid,kyc_status,address,city,registration_date,account_id,effective_from,effective_to,is_current
+1,C0001,Vivaan Nair,female,vivaan.nair@example.com,True,9177777868,True,1981-05-28,True,unknown,"39 MG Road, New Delhi",New Delhi,2022-11-12,AC0001,2026-03-31,2026-04-01,0
+2,C0002,Vihaan Iyer,male,,False,9163469421,True,2007-07-03,True,pending,"51 Park St, Jaipur",Jaipur,2018-07-10,AC0002,2026-03-31,9999-12-31,1
+3,C0003,Saanvi Reddy,female,saanvi.reddy@example.com,True,+91-951403729,True,1969-08-16,True,unknown,"100 MG Road, Pune",Pune,2024-04-30,AC0002,2026-03-31,9999-12-31,1
+4,C0004,Kiara Iyer,female,,False,phone-na,False,1991-04-08,True,pending,"255 Park St, Hyderabad",Hyderabad,2020-09-26,AC0004,2026-03-31,2026-04-01,0
+5,C0005,Dhruv Gupta,other,,False,12345,False,1992-04-26,True,verified,"169 Ring Rd, Jaipur",Jaipur,2019-09-15,AC0005,2026-03-31,9999-12-31,1
+6,C0006,Pari Sharma,unknown,pari.sharma@example.com,True,12345,False,1980-04-04,True,pending,"71 MG Road, Kolkata",Kolkata,2021-01-10,AC0006,2026-03-31,9999-12-31,1
+7,C0007,Yuvraj Chopra,male,yuvraj.chopra@example.com,True,phone-na,False,,False,pending,"24 Lake View, Kolkata",Kolkata,2021-12-26,AC0007,2026-03-31,9999-12-31,1
+8,C0008,Kiara Verma,female,kiara.verma@example.com,True,+91-948578460,True,1998-02-14,True,pending,"939 Lake View, Kolkata",Kolkata,2018-11-27,AC0008,2026-03-31,2026-04-01,0
+9,C0009,Krish Reddy,other,not-an-email,False,12345,False,1996-09-08,True,pending,"906 Lake View, Chennai",Chennai,2020-08-03,AC0009,2026-03-31,9999-12-31,1
+10,C0010,Vihaan Nair,female,vihaan.nair@mail.co,True,9807076898,True,1986-10-03,True,unknown,"289 MG Road, Pune",Pune,2019-08-20,AC0009,2026-03-31,9999-12-31,1
+11,C0011,Navya Mehta,other,not-an-email,False,9234745481,True,1985-06-26,True,rejected,"409 Lake View, Kolkata",Kolkata,2019-03-01,AC0009,2026-03-31,9999-12-31,1
+12,C0012,Advait Reddy,male,advait.reddy@mail.co,True,phone-na,False,1972-04-13,True,verified,"54 MG Road, Chennai",Chennai,2018-01-01,AC0012,2026-03-31,9999-12-31,1
+13,C0013,Navya Verma,male,navya.verma@example.com,True,phone-na,False,,False,verified,"617 Ring Rd, Hyderabad",Hyderabad,2023-04-27,AC0013,2026-03-31,9999-12-31,1
+14,C0014,Ananya Das,female,,False,12345,False,1968-11-08,True,verified,"759 Ring Rd, Jaipur",Jaipur,2023-05-15,AC0014,2026-03-31,9999-12-31,1
+15,C0015,Rohan Sharma,female,not-an-email,False,9257413274,True,1999-01-04,True,rejected,"885 MG Road, Chennai",Chennai,2020-12-05,AC0015,2026-03-31,9999-12-31,1
+16,C0016,Isha Mehta,female,not-an-email,False,+91-939936146,True,2001-02-27,True,pending,"205 Lake View, Kolkata",Kolkata,2021-12-27,AC0016,2026-03-31,9999-12-31,1
+17,C0017,Aarav Pillai,male,,False,12345,False,1985-01-23,True,pending,"226 MG Road, Bengaluru",Bengaluru,2020-07-18,AC0017,2026-03-31,9999-12-31,1
+18,C0018,Reyansh Mehta,female,,False,9770086184,True,1986-07-05,True,rejected,"87 MG Road, Chennai",Chennai,2022-05-11,AC0018,2026-03-31,9999-12-31,1
+19,C0019,Anika Menon,female,,False,12345,False,1968-11-22,True,pending,"762 MG Road, Kolkata",Kolkata,2019-10-13,AC0019,2026-03-31,9999-12-31,1
+20,C0020,Kabir Sharma,female,,False,+91-998027796,True,1992-06-08,True,unknown,"160 Park St, Kolkata",Kolkata,2018-03-29,AC0020,2026-03-31,9999-12-31,1
+21,C0021,Riya Banerjee,unknown,riya.banerjee@example.com,True,phone-na,False,,False,pending,"258 Park St, Mumbai",Mumbai,2021-04-14,AC0021,2026-03-31,9999-12-31,1
+22,C0022,Veer Patel,male,not-an-email,False,+91-966238912,True,1967-09-25,True,pending,"847 Park St, Kolkata",Kolkata,2023-12-19,AC0022,2026-03-31,9999-12-31,1
+23,C0023,Rohan Khan,male,,False,9933767140,True,1999-10-24,True,verified,"485 MG Road, Mumbai",Mumbai,2024-03-29,AC0023,2026-03-31,9999-12-31,1
+24,C0024,Vivaan Chopra,other,,False,9942106156,True,1976-02-24,True,pending,"791 MG Road, Bengaluru",Bengaluru,2023-09-11,AC0024,2026-03-31,9999-12-31,1
+25,C0025,Navya Sharma,male,,False,+91-992212100,True,1996-01-28,True,pending,"520 Park St, Kolkata",Kolkata,2023-11-14,AC0020,2026-03-31,9999-12-31,1
+26,C0026,Navya Menon,female,,False,9247246981,True,1982-08-08,True,pending,"688 Park St, Bengaluru",Bengaluru,2022-10-21,AC0020,2026-03-31,9999-12-31,1
+27,C0027,Reyansh Chopra,male,reyansh.chopra@example.com,True,12345,False,1971-06-01,True,pending,"225 MG Road, Pune",Pune,2022-06-20,AC0027,2026-03-31,9999-12-31,1
+28,C0028,Isha Chopra,female,isha.chopra@mail.co,True,phone-na,False,1980-03-19,True,pending,"327 MG Road, Pune",Pune,2022-02-07,AC0028,2026-03-31,9999-12-31,1
+29,C0029,Vivaan Khan,female,,False,phone-na,False,1979-11-15,True,rejected,"984 MG Road, Chennai",Chennai,2019-04-08,AC0029,2026-03-31,9999-12-31,1
+30,C0030,Ananya Verma,male,not-an-email,False,12345,False,1998-11-26,True,verified,"416 Park St, Kolkata",Kolkata,2024-01-07,AC0030,2026-03-31,9999-12-31,1
+31,C0031,Yuvraj Mehta,male,not-an-email,False,phone-na,False,2005-02-28,True,verified,"650 MG Road, Bengaluru",Bengaluru,2020-12-03,AC0031,2026-03-31,9999-12-31,1
+32,C0032,Kiara Das,female,kiara.das@example.com,True,phone-na,False,1965-07-09,True,pending,"637 Park St, Kolkata",Kolkata,2018-06-26,AC0032,2026-03-31,9999-12-31,1
+33,C0033,Ananya Nair,male,ananya.nair@example.com,True,12345,False,1993-03-15,True,pending,"457 Park St, Pune",Pune,2021-01-13,AC0033,2026-03-31,9999-12-31,1
+34,C0034,Riya Sharma,male,riya.sharma@example.com,True,+91-912474155,True,1988-01-26,True,pending,"109 Lake View, Pune",Pune,2023-07-21,AC0034,2026-03-31,9999-12-31,1
+35,C0035,Rohan Gupta,unknown,rohan.gupta@mail.co,True,+91-955997036,True,2002-05-03,True,rejected,"356 MG Road, Pune",Pune,2019-06-16,AC0035,2026-03-31,9999-12-31,1
+36,C0036,Vihaan Chopra,unknown,not-an-email,False,9562504317,True,1968-10-16,True,rejected,"614 Park St, Kolkata",Kolkata,2021-04-15,AC0036,2026-03-31,9999-12-31,1
+37,C0037,Krish Nair,female,not-an-email,False,12345,False,1981-05-03,True,pending,"36 Ring Rd, Bengaluru",Bengaluru,2020-06-11,AC0037,2026-03-31,9999-12-31,1
+38,C0038,Isha Sharma,male,,False,12345,False,1987-07-22,True,rejected,"517 MG Road, Mumbai",Mumbai,2019-01-08,AC0038,2026-03-31,9999-12-31,1
+39,C0039,Aryan Verma,female,,False,phone-na,False,1966-01-04,True,pending,"239 MG Road, Chennai",Chennai,2024-07-26,AC0039,2026-03-31,9999-12-31,1
+40,C0040,Ira Menon,unknown,,False,phone-na,False,1971-09-15,True,pending,"845 Lake View, Mumbai",Mumbai,2023-09-02,AC0040,2026-03-31,9999-12-31,1
+41,C0041,Rohan Pillai,other,rohan.pillai@example.com,True,+91-988391409,True,1968-10-26,True,verified,"653 Ring Rd, New Delhi",New Delhi,2019-03-06,AC0041,2026-03-31,9999-12-31,1
+42,C0042,Aryan Bose,other,aryan.bose@example.com,True,+91-912528752,True,1986-12-13,True,pending,"817 MG Road, Jaipur",Jaipur,2023-08-23,AC0042,2026-03-31,9999-12-31,1
+43,C0043,Ira Khan,male,,False,12345,False,1975-07-14,True,pending,"506 Lake View, Pune",Pune,2018-11-11,AC0043,2026-03-31,9999-12-31,1
+44,C0044,Ira Gupta,male,ira.gupta@mail.co,True,+91-990491079,True,1979-11-19,True,pending,"582 Park St, Chennai",Chennai,2018-02-21,AC0044,2026-03-31,9999-12-31,1
+45,C0045,Diya Bose,male,diya.bose@example.com,True,phone-na,False,1978-01-18,True,rejected,"478 Lake View, Hyderabad",Hyderabad,2019-05-01,AC0045,2026-03-31,9999-12-31,1
+46,C0046,Saanvi Verma,female,saanvi.verma@example.com,True,9410943694,True,2001-10-12,True,rejected,"397 Park St, Kolkata",Kolkata,2020-05-13,AC0046,2026-03-31,9999-12-31,1
+47,C0047,Dhruv Verma,female,not-an-email,False,12345,False,2004-10-13,True,verified,"510 Lake View, Bengaluru",Bengaluru,2022-06-03,AC0047,2026-03-31,9999-12-31,1
+48,C0048,Isha Sharma,female,,False,+91-950527182,True,1983-09-02,True,pending,"124 Ring Rd, Kolkata",Kolkata,2018-01-08,AC0048,2026-03-31,9999-12-31,1
+49,C0049,Veer Mehta,female,veer.mehta@example.com,True,12345,False,1976-05-11,True,pending,"400 MG Road, Jaipur",Jaipur,2022-01-17,AC0049,2026-03-31,9999-12-31,1
+50,C0050,Veer Gupta,male,not-an-email,False,12345,False,1993-06-26,True,verified,"447 Ring Rd, Pune",Pune,2020-02-17,AC0050,2026-03-31,9999-12-31,1
+51,C0001,Vivaan Nair,female,vivaan.nair@example.com,True,9177777868,True,1981-05-28,True,verified,"39 MG Road, New Delhi",New Delhi,2022-11-12,AC0001,2026-04-01,9999-12-31,1
+52,C0004,Kiara Iyer,female,,False,phone-na,False,1991-04-08,True,verified,"NEW 42 Residency Rd, Hyderabad",Hyderabad,2020-09-26,AC0004,2026-04-01,9999-12-31,1
+53,C0008,Kiara Verma,female,kiara.verma@example.com,True,+91-948578460,True,1998-02-14,True,verified,"939 Lake View, Kolkata",Kolkata,2018-11-27,AC0008,2026-04-01,9999-12-31,1
+54,C0051,Pari Banerjee,male,pari.banerjee@example.com,True,9860374345,True,2000-11-18,True,pending,"569 New Town, Bengaluru",Bengaluru,2026-04-01,AC0051,2026-04-01,9999-12-31,1
+55,C0052,Dhruv Chopra,female,dhruv.chopra@example.com,True,9509805536,True,2014-01-02,True,pending,"191 New Town, Bengaluru",Bengaluru,2026-04-01,AC0052,2026-04-01,9999-12-31,1
+56,C0053,Anika Reddy,female,anika.reddy@example.com,True,9548671128,True,1991-11-06,True,pending,"441 New Town, Bengaluru",Bengaluru,2026-04-01,AC0053,2026-04-01,9999-12-31,1

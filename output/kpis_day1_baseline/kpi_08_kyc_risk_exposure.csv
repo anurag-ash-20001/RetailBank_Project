@@ -1,0 +1,5 @@
+kyc_status,txn_count,txn_value,pct_of_count,pct_of_value,kyc_risk
+pending,168,10203194.12,54.55,58.34,True
+verified,77,3747657.48,25.0,21.43,False
+rejected,46,2657527.53,14.94,15.2,True
+unknown,17,879462.51,5.52,5.03,True

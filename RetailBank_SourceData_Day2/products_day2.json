@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": "P04",
+    "product_name": "Personal Loan",
+    "category": "Loan",
+    "price": 1800.0,
+    "is_active": true
+  },
+  {
+    "product_id": "P09",
+    "product_name": "Forex Card",
+    "category": "Forex",
+    "price": 300.0,
+    "is_active": true
+  },
+  {
+    "product_id": "P10",
+    "product_name": "Education Loan",
+    "category": "Loan",
+    "price": 1200.0,
+    "is_active": true
+  }
+]

@@ -1,0 +1,9 @@
+branch_id,branch_name,total_txns,refund_txns,total_value,refund_value,refund_rate_pct
+B003,Koramangala,99,11,6151673.94,517271.82,11.11
+B008,Anna Nagar,102,10,5934197.84,658190.69,9.8
+B001,Connaught Place,93,7,4306551.54,316781.76,7.53
+B006,Civil Lines,96,6,5590096.82,279080.24,6.25
+B004,Salt Lake,88,5,5933964.1,234691.46,5.68
+B005,Banjara Hills,92,5,6064889.47,954361.17,5.43
+B007,Viman Nagar,106,5,7208706.64,246635.67,4.72
+B002,Bandra West,111,5,6323571.58,379592.49,4.5

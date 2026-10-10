@@ -1,0 +1,11 @@
+branch_sk,branch_id,branch_name,region,branch_type,manager_name,contact_number,open_date,manager_missing,contact_valid,effective_from,effective_to,is_current
+1,B001,Connaught Place,North,Metro,Rakesh Nanda,011-23456789,2015-06-01,False,True,2026-03-31,9999-12-31,1
+2,B002,Bandra West,West,Metro,Priya Shah,022 26401234,2016-03-15,False,True,2026-03-31,2026-04-01,0
+3,B003,Koramangala,South,Urban,,080-41234567,2017-01-20,True,True,2026-03-31,9999-12-31,1
+4,B004,Salt Lake,East,Urban,Amitava Bose,033-23987654,2016-09-10,False,True,2026-03-31,9999-12-31,1
+5,B005,Banjara Hills,South,Metro,Sridevi Rao,040 23551212,2018-05-05,False,True,2026-03-31,9999-12-31,1
+6,B006,Civil Lines,North,Rural,Mohan Agarwal,0141-2611000,2019-11-11,False,True,2026-03-31,9999-12-31,1
+7,B007,Viman Nagar,West,Urban,Neha Kulkarni,20-66123456,2020-02-28,False,True,2026-03-31,9999-12-31,1
+8,B008,Anna Nagar,South,Urban,Karthik Iyer,bad-number,2021-07-19,False,False,2026-03-31,9999-12-31,1
+9,B009,Whitefield,South,Urban,Deepa Menon,080-67451000,2026-04-01,False,True,2026-04-01,9999-12-31,1
+10,B002,Bandra West,West,Metro,Farhan Ali,022 26401234,2016-03-15,False,True,2026-04-01,9999-12-31,1

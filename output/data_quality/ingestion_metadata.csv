@@ -1,0 +1,9 @@
+batch_id,entity,file_name,row_count,ingestion_timestamp,status
+DAY1,branches,branches.csv,10,2026-10-10T21:41:20,ok
+DAY1,customers,customers.csv,53,2026-10-10T21:41:20,ok
+DAY1,products,products.json,10,2026-10-10T21:41:20,trailing comma(s) removed
+DAY1,transactions,transactions.csv,865,2026-10-10T21:41:20,ok
+DAY2,branches,branches_day2.csv,2,2026-10-10T21:41:20,ok
+DAY2,customers,customer_updates_day2.csv,7,2026-10-10T21:41:20,ok
+DAY2,products,products_day2.json,3,2026-10-10T21:41:20,ok
+DAY2,transactions,transactions_day2.csv,123,2026-10-10T21:41:20,ok

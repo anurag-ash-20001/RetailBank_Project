@@ -1,0 +1,11 @@
+branch_id,branch_name,region,branch_type,manager_name,contact_number,open_date
+B001,Connaught Place,North,Metro,Rakesh Nanda,011-23456789,2015-06-01
+B002,Bandra West,west,Metro,Priya Shah,022 26401234,2016-03-15
+B003,Koramangala,South,Urban,,080-41234567,2017-01-20
+B004,Salt Lake,EAST,Urban,Amitava Bose,033-23987654,2016-09-10
+B005,Banjara Hills,South,Metro,Sridevi Rao,040 23551212,2018-05-05
+B006,Civil Lines,north,Rural,Mohan Agarwal,0141-2611000,2019-11-11
+B007,Viman Nagar,West,Urban,Neha Kulkarni,20-66123456,2020-02-28
+B008,Anna Nagar,South,Urban,Karthik Iyer,bad-number,2021-07-19
+B001,Connaught Place,North,Metro,Rakesh Nanda,011-23456789,2015-06-01
+B003,Koramangala ,South,Urban,,080-41234567,2017-01-20

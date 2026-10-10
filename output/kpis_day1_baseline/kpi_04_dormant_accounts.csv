@@ -1,0 +1,4 @@
+account_id,primary_customer_id,last_txn_date,txns,days_since_last,is_dormant,high_risk_dormant,categories
+AC0048,C0048,2025-12-20,1,101,True,True,Credit Card
+AC0049,C0049,2025-12-20,1,101,True,True,Loan
+AC0050,C0050,2025-12-20,1,101,True,False,Savings

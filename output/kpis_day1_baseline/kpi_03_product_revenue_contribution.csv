@@ -1,0 +1,10 @@
+product_id,product_name,category,2025-Q4,2026-Q1,revenue_total,share_pct,pop_growth_pct
+P03,Fixed Deposit,Fixed Deposit,0.0,2930359.42,2930359.42,16.76,
+P04,Personal Loan,Loan,0.0,2869680.71,2869680.71,16.41,
+P06,Credit Card,Credit Card,7118.07,2068109.45,2075227.52,11.87,28954.36
+P02,Current Account,Current,0.0,1855401.15,1855401.15,10.61,
+P01,Savings Account,Savings,29668.53,1800338.83,1830007.36,10.46,5968.18
+P09,Forex Card,Forex,0.0,1697368.04,1697368.04,9.71,
+P07,Gold Credit Card,Credit Card,0.0,1475388.81,1475388.81,8.44,
+P05,Home Loan,Loan,36288.84,1413203.59,1449492.43,8.29,3794.32
+P08,Mutual Fund,Mutual Fund,0.0,1304916.2,1304916.2,7.46,

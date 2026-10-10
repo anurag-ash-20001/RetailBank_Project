@@ -1,0 +1,9 @@
+batch_id,entity,records_received,records_valid,records_rejected,duplicates_removed,pass_rate_pct,top_3_rejection_reasons
+DAY1,branches,10,8,2,0,80.0,exact duplicate row (2)
+DAY1,customers,53,50,3,0,94.34,exact duplicate row (3)
+DAY1,products,10,9,1,1,90.0,duplicate product_id (1)
+DAY1,transactions,865,829,36,6,95.84,exact duplicate row (10); duplicate/conflicting transaction_id (6); orphan account_id (5)
+DAY2,branches,2,2,0,0,100.0,-
+DAY2,customers,7,7,0,0,100.0,-
+DAY2,products,3,3,0,0,100.0,-
+DAY2,transactions,123,121,2,0,98.37,orphan account_id (1); future-dated beyond processing date (1)

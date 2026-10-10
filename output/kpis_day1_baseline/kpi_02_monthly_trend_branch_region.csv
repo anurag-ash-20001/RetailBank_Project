@@ -1,0 +1,26 @@
+region,branch_id,branch_name,txn_month,value,volume,mom_growth_pct
+East,B004,Salt Lake,2026-01,1681341.92,15,
+East,B004,Salt Lake,2026-02,580350.64,5,-65.48
+East,B004,Salt Lake,2026-03,418249.67,13,-27.93
+North,B001,Connaught Place,2026-01,634186.67,14,
+North,B001,Connaught Place,2026-02,439515.2,12,-30.7
+North,B001,Connaught Place,2026-03,407693.41,9,-7.24
+North,B006,Civil Lines,2026-01,562988.4,12,
+North,B006,Civil Lines,2026-02,519241.25,13,-7.77
+North,B006,Civil Lines,2026-03,470325.38,13,-9.42
+South,B003,Koramangala,2025-12,73075.44,3,
+South,B003,Koramangala,2026-01,453797.49,12,521.0
+South,B003,Koramangala,2026-02,423705.85,7,-6.63
+South,B003,Koramangala,2026-03,615651.35,14,45.3
+South,B005,Banjara Hills,2026-01,402043.99,11,
+South,B005,Banjara Hills,2026-02,371209.32,9,-7.67
+South,B005,Banjara Hills,2026-03,1346633.14,14,262.77
+South,B008,Anna Nagar,2026-01,780308.12,13,
+South,B008,Anna Nagar,2026-02,514543.59,12,-34.06
+South,B008,Anna Nagar,2026-03,1044465.72,8,102.99
+West,B002,Bandra West,2026-01,1106047.48,24,
+West,B002,Bandra West,2026-02,1024544.25,20,-7.37
+West,B002,Bandra West,2026-03,1357852.24,16,32.53
+West,B007,Viman Nagar,2026-01,1043632.76,11,
+West,B007,Viman Nagar,2026-02,743932.83,11,-28.72
+West,B007,Viman Nagar,2026-03,472505.53,17,-36.49

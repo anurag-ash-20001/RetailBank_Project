@@ -1,0 +1,8 @@
+customer_id,name,gender,email,phone,date_of_birth,kyc_status,address,city,registration_date,account_id
+C0001,Vivaan Nair,Female,vivaan.nair@example.com,9177777868,1981-05-28,Verified,"39 MG Road, New Delhi",New Delhi,12-Nov-2022,AC0001
+C0004,Kiara Iyer,Female,,phone-na,1991-04-08,Verified,"NEW 42 Residency Rd, Hyderabad",Hyderabad,2020-09-26,AC0004
+C0008,Kiara Verma,Female,kiara.verma@example.com,+91-948578460,1998-02-14,Verified,"939 Lake View, Kolkata",Kolkata,27-11-2018,AC0008
+C0012,Advait Reddy,M,advait.reddy@mail.co,phone-na,1972-04-13,Verified,"54 MG Road, Chennai",Chennai,01-01-2018,AC0012
+C0051,Pari Banerjee,M,pari.banerjee@example.com,9860374345,2000-11-18,Pending,"569 New Town, Bengaluru",Bengaluru,2026-04-01,AC0051
+C0052,Dhruv Chopra,F,dhruv.chopra@example.com,9509805536,2014-01-02,Pending,"191 New Town, Bengaluru",Bengaluru,2026-04-01,AC0052
+C0053,Anika Reddy,F,anika.reddy@example.com,9548671128,1991-11-06,Pending,"441 New Town, Bengaluru",Bengaluru,2026-04-01,AC0053

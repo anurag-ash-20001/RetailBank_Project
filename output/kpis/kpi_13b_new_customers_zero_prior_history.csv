@@ -1,0 +1,4 @@
+customer_id,name,account_id,had_prior_txn_history,transacted_day2
+C0051,Pari Banerjee,AC0051,False,True
+C0052,Dhruv Chopra,AC0052,False,True
+C0053,Anika Reddy,AC0053,False,True

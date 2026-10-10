@@ -1,0 +1,4 @@
+account_id,primary_customer_id,first_txn_date,day2_txns,newly_onboarded_customer
+AC0051,C0051,2026-04-01,3,True
+AC0052,C0052,2026-04-01,2,True
+AC0053,C0053,2026-04-01,1,True

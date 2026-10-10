@@ -1,0 +1,9 @@
+region,position,branch_id,branch_name,revenue
+East,TOP,B004,Salt Lake,2919882.64
+East,BOTTOM,B004,Salt Lake,2919882.64
+North,TOP,B001,Connaught Place,1830825.64
+North,BOTTOM,B006,Civil Lines,1816046.58
+South,TOP,B008,Anna Nagar,2491128.33
+South,BOTTOM,B009,Whitefield,378891.64
+West,TOP,B002,Bandra West,3802245.0
+West,BOTTOM,B007,Viman Nagar,2320787.68

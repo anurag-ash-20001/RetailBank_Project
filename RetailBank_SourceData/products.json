@@ -1,0 +1,72 @@
+[
+  {
+    "product_id": "P01",
+    "product_name": "Savings Account",
+    "category": "Savings",
+    "price": 0.0,
+    "is_active": true
+  },
+  {
+    "product_id": "P02",
+    "product_name": "Current Account",
+    "category": "current",
+    "price": 500.0,
+    "is_active": "Y"
+  },
+  {
+    "product_id": "P03",
+    "product_name": "Fixed Deposit",
+    "category": "Fixed Deposit",
+    "price": 0.0,
+    "is_active": 1
+  },
+  {
+    "product_id": "P04",
+    "product_name": "Personal Loan",
+    "category": "loan",
+    "price": 1500.0,
+    "is_active": "yes"
+  },
+  {
+    "product_id": "P05",
+    "product_name": "Home Loan",
+    "category": "Loan",
+    "price": 2500.0,
+    "is_active": true
+  },
+  {
+    "product_id": "P06",
+    "product_name": "Credit Card",
+    "category": "credit card",
+    "price": 999.0,
+    "is_active": "true"
+  },
+  {
+    "product_id": "P07",
+    "product_name": "Gold Credit Card",
+    "category": "CREDIT CARD",
+    "price": -200.0,
+    "is_active": null
+  },
+  {
+    "product_id": "P08",
+    "product_name": "Mutual Fund",
+    "category": "Mutual Fund",
+    "price": 100.0,
+    "is_active": "0"
+  },
+  {
+    "product_id": "P09",
+    "product_name": "Forex Card",
+    "category": "Forex",
+    "price": 300.0,
+    "is_active": false
+  },
+  {
+    "product_id": "P06",
+    "product_name": "Credit Card (dup)",
+    "category": "Credit Card",
+    "price": 999.0,
+    "is_active": true
+  },
+]

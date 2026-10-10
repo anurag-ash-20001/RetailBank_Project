@@ -1,0 +1,3 @@
+transaction_id,account_id,branch_id,product_id,txn_date,txn_timestamp,amount,currency,payment_method,status,is_refund,txn_datetime,currency_review,date_timestamp_conflict,reject_reason
+T0000963,AC9999,B001,P01,2026-04-01,2026-04-01 11:00:00,5000.00,INR,upi,completed,False,2026-04-01 11:00:00,False,False,orphan account_id
+T0000964,AC0024,B002,P06,2026-04-20,2026-04-20 11:00:00,7000.00,INR,card,completed,False,2026-04-20 11:00:00,False,False,future-dated beyond processing date

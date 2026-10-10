@@ -1,0 +1,2 @@
+day2_txn_valid,day2_rows_rejected_all_entities,new_transactions_inserted,transaction_corrections_applied,fact_rows_before,fact_rows_after,customers_new,customers_scd2_versioned,customers_updated_in_place,products_new,products_scd2_versioned,branches_new,branches_scd2_versioned
+121,2,113,8,829,942,3,3,0,1,1,1,1

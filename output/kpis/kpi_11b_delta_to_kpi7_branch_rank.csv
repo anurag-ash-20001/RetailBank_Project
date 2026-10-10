@@ -1,0 +1,10 @@
+branch_id,branch_name,region,revenue_after,rank_after,revenue_day1,rank_day1,revenue_delta,rank_change
+B004,Salt Lake,East,2919882.64,1,2679942.23,1.0,239940.41,0.0
+B001,Connaught Place,North,1830825.64,1,1481395.28,2.0,349430.36,1.0
+B006,Civil Lines,North,1816046.58,2,1552555.03,1.0,263491.55,-1.0
+B008,Anna Nagar,South,2491128.33,1,2339317.43,1.0,151810.9,0.0
+B005,Banjara Hills,South,2212572.6,2,2119886.45,2.0,92686.15,0.0
+B003,Koramangala,South,1666804.2,3,1566230.13,3.0,100574.07,0.0
+B009,Whitefield,South,378891.64,4,,,378891.64,
+B002,Bandra West,West,3802245.0,1,3488443.97,1.0,313801.03,0.0
+B007,Viman Nagar,West,2320787.68,2,2260071.12,2.0,60716.56,0.0

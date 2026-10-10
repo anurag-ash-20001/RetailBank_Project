@@ -1,0 +1,4 @@
+customer_id,name,old_kyc_status,new_kyc_status,change_date
+C0001,Vivaan Nair,unknown,verified,2026-04-01
+C0004,Kiara Iyer,pending,verified,2026-04-01
+C0008,Kiara Verma,pending,verified,2026-04-01

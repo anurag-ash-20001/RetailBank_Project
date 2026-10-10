@@ -1,0 +1,54 @@
+customer_id,name,gender,email,phone,date_of_birth,kyc_status,address,city,registration_date,account_id
+C0001,Vivaan Nair,Female,vivaan.nair@example.com,9177777868,1981-05-28,,"39 MG Road, New Delhi",New Delhi,12-Nov-2022,AC0001
+C0002,Vihaan Iyer,M,,9163469421,2007-07-03,Pending,"51 Park St, Jaipur",Jaipur,10-07-2018,AC0002
+C0003,Saanvi Reddy,F,saanvi.reddy@example.com,+91-951403729,1969-08-16,,"100 MG Road, Pune",Pune,2024-04-30,AC0002
+C0004,Kiara Iyer,Female,,phone-na,1991-04-08,in progress,"255 Park St, Hyderabad",Hyderabad,2020-09-26,AC0004
+C0005,Dhruv Gupta,Other,,12345,1992-04-26,verified,"169 Ring Rd, Jaipur",Jaipur,15-Sep-2019,AC0005
+C0006,Pari Sharma,,pari.sharma@example.com,12345,1980-04-04,pend,"71 MG Road, Kolkata",Kolkata,10-Jan-2021,AC0006
+C0007,Yuvraj Chopra,M,yuvraj.chopra@example.com,phone-na,2030-01-01,PENDING,"24 Lake View, Kolkata",Kolkata,26-12-2021,AC0007
+C0008,Kiara Verma,Female,kiara.verma@example.com,+91-948578460,1998-02-14,Pending,"939 Lake View, Kolkata",Kolkata,27-11-2018,AC0008
+C0009,Krish Reddy,Other,not-an-email,12345,1996-09-08,In-Progress,"906 Lake View, Chennai",Chennai,03-08-2020,AC0009
+C0010,Vihaan Nair,F,vihaan.nair@mail.co,9807076898,1986-10-03,,"289 MG Road, Pune",Pune,20-Aug-2019,AC0009
+C0011,Navya Mehta,Other,not-an-email,9234745481,1985-06-26,rejected,"409 Lake View, Kolkata",Kolkata,01-Mar-2019,AC0009
+C0012,Advait Reddy,M,advait.reddy@mail.co,phone-na,1972-04-13,verified,"54 MG Road, Chennai",Chennai,01-01-2018,AC0012
+C0013,Navya Verma,male,navya.verma@example.com,phone-na,1850-05-05,VERIFIED,"617 Ring Rd, Hyderabad",Hyderabad,2023-04-27,AC0013
+C0014,Ananya Das,Female,,12345,1968-11-08,VERIFIED,"759 Ring Rd, Jaipur",Jaipur,15-05-2023,AC0014
+C0015,Rohan Sharma,F,not-an-email,9257413274,1999-01-04,Rejected,"885 MG Road, Chennai",Chennai,05/12/2020,AC0015
+C0016,Isha Mehta,F,not-an-email,+91-939936146,2001-02-27,Pending,"205 Lake View, Kolkata",Kolkata,2021-12-27,AC0016
+C0017,Aarav Pillai,male,,12345,1985-01-23,pend,"226 MG Road, Bengaluru",Bengaluru,18-Jul-2020,AC0017
+C0018,Reyansh Mehta,F,,9770086184,1986-07-05,rejected,"87 MG Road, Chennai",Chennai,11-05-2022,AC0018
+C0019,Anika Menon,F,,12345,1968-11-22,In-Progress,"762 MG Road, Kolkata",Kolkata,13-10-2019,AC0019
+C0020,Kabir Sharma,F,,+91-998027796,1992-06-08,,"160 Park St, Kolkata",Kolkata,2018-03-29,AC0020
+C0021,Riya Banerjee,,riya.banerjee@example.com,phone-na,,Pending,"258 Park St, Mumbai",Mumbai,14-04-2021,AC0021
+C0022,Veer Patel,male,not-an-email,+91-966238912,1967-09-25,pend,"847 Park St, Kolkata",Kolkata,19-12-2023,AC0022
+C0023,Rohan Khan,M,,9933767140,1999-10-24,VERIFIED,"485 MG Road, Mumbai",Mumbai,2024-03-29,AC0023
+C0024,Vivaan Chopra,Other,,9942106156,1976-02-24,Pending,"791 MG Road, Bengaluru",Bengaluru,11-Sep-2023,AC0024
+C0025,Navya Sharma,M,,+91-992212100,1996-01-28,PENDING,"520 Park St, Kolkata",Kolkata,14/11/2023,AC0020
+C0026,Navya Menon,F,,9247246981,1982-08-08,in progress,"688 Park St, Bengaluru",Bengaluru,2022-10-21,AC0020
+C0027,Reyansh Chopra,male,reyansh.chopra@example.com,12345,1971-06-01,PENDING,"225 MG Road, Pune",Pune,20-Jun-2022,AC0027
+C0028,Isha Chopra,F,isha.chopra@mail.co,phone-na,1980-03-19,In-Progress,"327 MG Road, Pune",Pune,2022-02-07,AC0028
+C0029,Vivaan Khan,Female,,phone-na,1979-11-15,Rejected,"984 MG Road, Chennai",Chennai,08-04-2019,AC0029
+C0030,Ananya Verma,male,not-an-email,12345,1998-11-26,VERIFIED,"416 Park St, Kolkata",Kolkata,07-Jan-2024,AC0030
+C0031,Yuvraj Mehta,M,not-an-email,phone-na,2005-02-28,verified,"650 MG Road, Bengaluru",Bengaluru,2020-12-03,AC0031
+C0032,Kiara Das,F,kiara.das@example.com,phone-na,1965-07-09,pend,"637 Park St, Kolkata",Kolkata,26-06-2018,AC0032
+C0033,Ananya Nair,male,ananya.nair@example.com,12345,1993-03-15,PENDING,"457 Park St, Pune",Pune,13/01/2021,AC0033
+C0034,Riya Sharma,male,riya.sharma@example.com,+91-912474155,1988-01-26,in progress,"109 Lake View, Pune",Pune,21-Jul-2023,AC0034
+C0035,Rohan Gupta,,rohan.gupta@mail.co,+91-955997036,2002-05-03,rejected,"356 MG Road, Pune",Pune,2019-06-16,AC0035
+C0036,Vihaan Chopra,,not-an-email,9562504317,1968-10-16,rejected,"614 Park St, Kolkata",Kolkata,2021-04-15,AC0036
+C0037,Krish Nair,F,not-an-email,12345,1981-05-03,pend,"36 Ring Rd, Bengaluru",Bengaluru,11/06/2020,AC0037
+C0038,Isha Sharma,male,,12345,1987-07-22,rejected,"517 MG Road, Mumbai",Mumbai,08/01/2019,AC0038
+C0039,Aryan Verma,F,,phone-na,1966-01-04,PENDING,"239 MG Road, Chennai",Chennai,26-07-2024,AC0039
+C0040,Ira Menon,,,phone-na,1971-09-15,PENDING,"845 Lake View, Mumbai",Mumbai,02-09-2023,AC0040
+C0041,Rohan Pillai,Other,rohan.pillai@example.com,+91-988391409,1968-10-26,Verified,"653 Ring Rd, New Delhi",New Delhi,06-Mar-2019,AC0041
+C0042,Aryan Bose,Other,aryan.bose@example.com,+91-912528752,1986-12-13,PENDING,"817 MG Road, Jaipur",Jaipur,2023-08-23,AC0042
+C0043,Ira Khan,M,,12345,1975-07-14,Pending,"506 Lake View, Pune",Pune,11-Nov-2018,AC0043
+C0044,Ira Gupta,M,ira.gupta@mail.co,+91-990491079,1979-11-19,PENDING,"582 Park St, Chennai",Chennai,21-Feb-2018,AC0044
+C0045,Diya Bose,male,diya.bose@example.com,phone-na,1978-01-18,Rejected,"478 Lake View, Hyderabad",Hyderabad,01-05-2019,AC0045
+C0046,Saanvi Verma,Female,saanvi.verma@example.com,9410943694,2001-10-12,Rejected,"397 Park St, Kolkata",Kolkata,2020-05-13,AC0046
+C0047,Dhruv Verma,F,not-an-email,12345,2004-10-13,verified,"510 Lake View, Bengaluru",Bengaluru,2022-06-03,AC0047
+C0048,Isha Sharma,Female,,+91-950527182,1983-09-02,pend,"124 Ring Rd, Kolkata",Kolkata,08/01/2018,AC0048
+C0049,Veer Mehta,Female,veer.mehta@example.com,12345,1976-05-11,pend,"400 MG Road, Jaipur",Jaipur,17-Jan-2022,AC0049
+C0050,Veer Gupta,M,not-an-email,12345,1993-06-26,VERIFIED,"447 Ring Rd, Pune",Pune,17/02/2020,AC0050
+C0005,DHRUV GUPTA ,Other,,12345,1992-04-26,verified,"169 Ring Rd, Jaipur",Jaipur,15-Sep-2019,AC0005
+C0010,Vihaan Nair,F, vihaan.nair@mail.co,9807076898,1986-10-03,,"289 MG Road, Pune",Pune,20-Aug-2019,AC0009
+C0016,Isha Mehta,F,not-an-email,+91-939936146,2001-02-27,Pending,"205 Lake View, Kolkata",Kolkata,2021-12-27,AC0016
