@@ -85,7 +85,8 @@ az role assignment create --assignee-object-id $idPrincipal --assignee-principal
 $envExists = az containerapp env show -g $ResourceGroup -n $Env --query id -o tsv 2>$null
 if (-not $envExists) {
     Run "Container Apps environment $Env (takes a few minutes)" {
-        az containerapp env create -g $ResourceGroup -n $Env -l $Location -o none }
+        az containerapp env create -g $ResourceGroup -n $Env -l $Location `
+            --environment-mode WorkloadProfiles -o none }   # Express mode doesn't support jobs
 }
 
 # ---- Pipeline job --------------------------------------------------------
